@@ -38,3 +38,5 @@ main
 
 # Virtual env
 .venv
+
+.DS_Store
