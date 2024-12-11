@@ -35,3 +35,6 @@ main
 *.out
 *.app
 *.csv
+
+# Virtual env
+.venv
